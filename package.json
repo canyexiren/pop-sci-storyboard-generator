@@ -1,0 +1,23 @@
+{
+  "name": "pop-sci-storyboard-generator",
+  "version": "1.0.0",
+  "description": "30s Popular Science Anthropomorphic Storyboard Prompt Generator - Universal AI Agent Skill",
+  "keywords": [
+    "agent-skill",
+    "ai-skill",
+    "claude-code",
+    "cursor-rules",
+    "storyboard",
+    "video-prompt",
+    "popular-science"
+  ],
+  "files": [
+    "SKILL.md",
+    "AGENTS.md",
+    "skills/",
+    ".cursor/",
+    ".claude/",
+    ".github/"
+  ],
+  "license": "MIT"
+}
